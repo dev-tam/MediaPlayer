@@ -33,7 +33,7 @@
         </LinearLayout>
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buPlay"
             android:background="@drawable/button_background"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
